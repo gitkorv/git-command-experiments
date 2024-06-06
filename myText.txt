@@ -1,1 +1,2 @@
 Here is text number one.
+And here is an edit on a new branch.
